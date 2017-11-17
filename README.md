@@ -1,9 +1,9 @@
 # Primeiras Ideias
 
 ## REFERÊNCIAS
-Flow Project Management - https://www.getflow.com/
-Mirrored Atomicity - https://uxdesign.cc/mirrored-atomicity-ui-and-front-end-speaking-the-same-language-3ac5c2fe382b
-The Unicorn Workflow - https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37
+- Flow Project Management - https://www.getflow.com/
+- Mirrored Atomicity - https://uxdesign.cc/mirrored-atomicity-ui-and-front-end-speaking-the-same-language-3ac5c2fe382b
+- The Unicorn Workflow - https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37
 
 ## CONTEÚDO
 Qual o problema do mercado?
